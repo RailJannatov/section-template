@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+#education-program {
+    width: 100%;
+    padding: 0px 100px;
+}
+
+#program-title h2 {
+
+    font-size: 35px;
+    font-family: 'Questrial', sans-serif;
+    margin-top: 5px;
+
+}
+
+#program-title .program-paragraph {
+
+    font-family: 'Questrial', sans-serif;
+    font-size: 32px;
+    margin-bottom: 7px;
+
+}
+
+#program-title .gradient {
+    height: 3px;
+    width: 79px;
+    background-image: linear-gradient(to right, green, blue, rgb(95, 36, 121), red, orange);
+}
+
+#program-title {
+    width: 50%;
+}
+
+#cards .item {
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+#cards {
+    width: 100%;
+}
+
+.item img {
+    height: 182px;
+    float: left;
+    margin-right: 45px;
+}
+
+.item .text {
+    padding-left: 2px;
+
+}
+
+#cards .item h4 {
+    font-size: 25px;
+    margin-top: 46px;
+}
+
+#cards .item p {
+    font-size: 17px;
+}
+
+#education-program .program-title p {
+    font-size: 17px;
+}
